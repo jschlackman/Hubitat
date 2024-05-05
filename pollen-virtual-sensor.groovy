@@ -2,8 +2,8 @@
  *  Pollen Virtual Sensor
  *
  *  Author: jschlackman (james@schlackman.org)
- *  Version: 0.1
- *  Date: 2023-11-29
+ *  Version: 1.0
+ *  Date: 2024-05-05
  *
  */
 metadata {
