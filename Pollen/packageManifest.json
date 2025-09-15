@@ -2,13 +2,14 @@
   "packageName": "Pollen Virtual Sensor",
   "author": "James Schlackman",
   "minimumHEVersion": "2.0",
+  "version": "1.0",
   "dateReleased": "2024-05-05",
   "drivers": [
     {
       "id": "53119f28-6437-487b-81f7-c7a09fccd614",
       "name": "Pollen Virtual Sensor",
       "namespace": "jschlackman",
-      "location": "https://raw.githubusercontent.com/jschlackman/Hubitat/refs/heads/main/Pollen/pollen-virtual-sensor.groovy",
+      "location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/Pollen/pollen-virtual-sensor.groovy",
       "required": true
     }
   ]
