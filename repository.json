@@ -1,0 +1,16 @@
+{
+  "author": "James Schlackman",
+  "gitHubUrl": "https://github.com/jschlackman",
+  "packages": [
+    {
+      "id": "7493927e-e05e-41ec-a4bd-48821f814483",
+      "name": "Pollen Virtual Sensor",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/Pollen/packageManifest.json",
+      "description": "Retrieves airborne pollen data from Pollen.com",
+      "tags": [
+        "Weather"
+      ]
+    }
+  ]
+}
